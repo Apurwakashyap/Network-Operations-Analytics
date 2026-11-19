@@ -1,0 +1,301 @@
+incident_id,device_id,incident_timestamp,incident_type,severity,downtime_minutes,resolution_status
+INC_0001,DEV_014,2026-10-27 13:30:00,High Latency,Medium,61,Resolved
+INC_0002,DEV_002,2026-11-01 03:00:00,Network Outage,Medium,225,Resolved
+INC_0003,DEV_004,2026-10-25 11:30:00,High CPU Utilization,Low,63,Resolved
+INC_0004,DEV_014,2026-11-01 02:30:00,Device Failure,Critical,63,Resolved
+INC_0005,DEV_022,2026-10-27 02:30:00,Device Failure,High,21,Resolved
+INC_0006,DEV_016,2026-10-26 00:00:00,Packet Loss,Low,15,In Progress
+INC_0007,DEV_016,2026-11-01 19:30:00,Network Outage,High,134,Resolved
+INC_0008,DEV_021,2026-10-26 23:30:00,Device Failure,Medium,142,Resolved
+INC_0009,DEV_016,2026-11-01 12:30:00,Packet Loss,Low,115,Resolved
+INC_0010,DEV_004,2026-11-01 11:00:00,Network Outage,High,218,Resolved
+INC_0011,DEV_024,2026-10-28 15:30:00,Device Failure,High,21,Resolved
+INC_0012,DEV_016,2026-10-27 03:00:00,High CPU Utilization,High,94,Resolved
+INC_0013,DEV_003,2026-11-02 06:00:00,Device Failure,High,51,In Progress
+INC_0014,DEV_001,2026-10-27 01:30:00,Network Outage,High,123,Resolved
+INC_0015,DEV_025,2026-10-28 15:00:00,Packet Loss,Critical,199,Resolved
+INC_0016,DEV_007,2026-10-25 10:00:00,Network Outage,Medium,170,Resolved
+INC_0017,DEV_012,2026-11-01 19:30:00,High Latency,Medium,55,Resolved
+INC_0018,DEV_016,2026-10-29 07:30:00,Device Failure,Critical,128,In Progress
+INC_0019,DEV_004,2026-10-27 12:30:00,High Latency,Medium,26,Resolved
+INC_0020,DEV_001,2026-10-27 20:00:00,High CPU Utilization,Medium,216,Resolved
+INC_0021,DEV_016,2026-11-01 04:00:00,Packet Loss,Medium,109,Resolved
+INC_0022,DEV_009,2026-10-31 23:30:00,High CPU Utilization,High,231,Resolved
+INC_0023,DEV_019,2026-10-31 20:30:00,Network Outage,Medium,63,Resolved
+INC_0024,DEV_004,2026-10-26 23:00:00,Device Failure,Low,211,Resolved
+INC_0025,DEV_004,2026-10-31 20:00:00,Packet Loss,Critical,106,Resolved
+INC_0026,DEV_017,2026-10-30 21:30:00,High Latency,Medium,14,Resolved
+INC_0027,DEV_020,2026-11-01 17:30:00,High Latency,Medium,37,In Progress
+INC_0028,DEV_002,2026-11-01 14:00:00,Network Outage,Medium,219,Resolved
+INC_0029,DEV_016,2026-10-31 22:30:00,High Latency,Critical,125,Resolved
+INC_0030,DEV_020,2026-10-30 10:00:00,Network Outage,Low,10,Resolved
+INC_0031,DEV_023,2026-10-29 18:30:00,Packet Loss,Medium,163,In Progress
+INC_0032,DEV_024,2026-10-25 18:30:00,High CPU Utilization,Medium,30,Resolved
+INC_0033,DEV_023,2026-10-30 21:30:00,Device Failure,Medium,145,Resolved
+INC_0034,DEV_017,2026-10-28 08:00:00,High CPU Utilization,Critical,148,Resolved
+INC_0035,DEV_004,2026-10-31 07:30:00,High CPU Utilization,Low,40,Resolved
+INC_0036,DEV_023,2026-10-28 23:30:00,Device Failure,Medium,225,Resolved
+INC_0037,DEV_022,2026-11-01 07:00:00,Packet Loss,Medium,219,Resolved
+INC_0038,DEV_006,2026-10-30 11:00:00,Network Outage,Medium,208,Resolved
+INC_0039,DEV_022,2026-10-26 21:00:00,High Latency,Medium,40,Resolved
+INC_0040,DEV_022,2026-10-27 19:30:00,Device Failure,Medium,49,Resolved
+INC_0041,DEV_006,2026-11-02 06:30:00,High CPU Utilization,Low,29,Resolved
+INC_0042,DEV_022,2026-10-30 11:30:00,Device Failure,Medium,116,Resolved
+INC_0043,DEV_013,2026-11-01 18:30:00,Packet Loss,Low,156,Resolved
+INC_0044,DEV_024,2026-10-30 09:00:00,Device Failure,Low,223,Resolved
+INC_0045,DEV_018,2026-10-25 01:30:00,High Latency,High,229,Resolved
+INC_0046,DEV_001,2026-10-28 01:30:00,High CPU Utilization,Critical,151,Resolved
+INC_0047,DEV_022,2026-10-27 17:30:00,High Latency,Medium,197,Resolved
+INC_0048,DEV_007,2026-10-25 10:00:00,High Latency,Low,161,In Progress
+INC_0049,DEV_009,2026-11-01 02:30:00,High Latency,High,97,Resolved
+INC_0050,DEV_003,2026-10-26 01:00:00,High Latency,High,49,Resolved
+INC_0051,DEV_017,2026-10-26 17:00:00,Device Failure,Medium,194,Resolved
+INC_0052,DEV_022,2026-10-30 16:00:00,Device Failure,Medium,47,Resolved
+INC_0053,DEV_005,2026-11-02 01:30:00,High CPU Utilization,Critical,21,Resolved
+INC_0054,DEV_004,2026-10-25 15:30:00,Network Outage,Critical,107,Resolved
+INC_0055,DEV_014,2026-11-01 17:00:00,Network Outage,Medium,192,Resolved
+INC_0056,DEV_010,2026-10-25 14:00:00,High Latency,Medium,226,Resolved
+INC_0057,DEV_010,2026-11-01 07:00:00,Packet Loss,High,29,In Progress
+INC_0058,DEV_023,2026-11-01 02:00:00,High Latency,High,101,In Progress
+INC_0059,DEV_005,2026-10-28 16:30:00,Packet Loss,High,38,Resolved
+INC_0060,DEV_011,2026-10-29 04:30:00,Packet Loss,Medium,173,Resolved
+INC_0061,DEV_012,2026-10-28 12:00:00,High Latency,Medium,146,Resolved
+INC_0062,DEV_020,2026-10-31 02:00:00,High CPU Utilization,Low,116,Resolved
+INC_0063,DEV_010,2026-10-31 06:30:00,Packet Loss,Critical,61,Resolved
+INC_0064,DEV_012,2026-10-25 04:30:00,High Latency,Low,158,Resolved
+INC_0065,DEV_010,2026-10-29 17:30:00,High Latency,Medium,22,Resolved
+INC_0066,DEV_025,2026-10-28 03:00:00,High Latency,Medium,152,Resolved
+INC_0067,DEV_008,2026-11-01 23:30:00,Packet Loss,High,203,Resolved
+INC_0068,DEV_020,2026-10-25 01:30:00,Device Failure,High,34,Resolved
+INC_0069,DEV_020,2026-10-28 20:30:00,Packet Loss,Low,161,Resolved
+INC_0070,DEV_010,2026-10-28 19:30:00,Device Failure,Low,113,Resolved
+INC_0071,DEV_025,2026-10-27 15:00:00,Device Failure,Critical,70,Resolved
+INC_0072,DEV_016,2026-10-31 08:00:00,High CPU Utilization,Low,144,Resolved
+INC_0073,DEV_015,2026-10-30 20:30:00,Network Outage,High,153,Resolved
+INC_0074,DEV_012,2026-10-27 05:30:00,High Latency,Low,206,Resolved
+INC_0075,DEV_008,2026-10-31 05:00:00,High Latency,Low,38,Resolved
+INC_0076,DEV_023,2026-10-25 22:30:00,Packet Loss,Medium,42,Resolved
+INC_0077,DEV_017,2026-10-27 20:00:00,Network Outage,Medium,101,Resolved
+INC_0078,DEV_004,2026-10-26 18:00:00,High CPU Utilization,High,74,Resolved
+INC_0079,DEV_001,2026-10-27 18:00:00,High Latency,High,192,Resolved
+INC_0080,DEV_005,2026-10-28 01:30:00,Packet Loss,High,89,In Progress
+INC_0081,DEV_020,2026-10-28 12:00:00,High CPU Utilization,Critical,125,Resolved
+INC_0082,DEV_007,2026-10-31 15:00:00,Network Outage,Low,188,Resolved
+INC_0083,DEV_008,2026-10-29 12:00:00,Packet Loss,High,191,Resolved
+INC_0084,DEV_001,2026-10-31 10:30:00,High CPU Utilization,Medium,188,Resolved
+INC_0085,DEV_005,2026-10-25 21:30:00,Network Outage,Medium,96,Resolved
+INC_0086,DEV_007,2026-11-01 20:30:00,High Latency,Low,62,Resolved
+INC_0087,DEV_003,2026-10-30 06:00:00,Network Outage,Low,77,Resolved
+INC_0088,DEV_025,2026-11-02 01:30:00,Packet Loss,High,217,Resolved
+INC_0089,DEV_008,2026-10-31 22:00:00,High Latency,High,110,Resolved
+INC_0090,DEV_021,2026-10-31 17:30:00,Device Failure,Medium,78,Resolved
+INC_0091,DEV_003,2026-10-28 04:30:00,Packet Loss,Low,59,Resolved
+INC_0092,DEV_019,2026-11-02 00:00:00,Device Failure,High,33,Resolved
+INC_0093,DEV_016,2026-10-29 06:30:00,Network Outage,Low,212,Resolved
+INC_0094,DEV_003,2026-10-31 10:30:00,High CPU Utilization,High,116,Resolved
+INC_0095,DEV_002,2026-11-01 22:00:00,High Latency,High,87,Resolved
+INC_0096,DEV_016,2026-10-26 15:30:00,Packet Loss,Low,122,Resolved
+INC_0097,DEV_017,2026-10-31 00:30:00,High Latency,Medium,36,Resolved
+INC_0098,DEV_015,2026-10-25 02:00:00,Network Outage,Low,16,Resolved
+INC_0099,DEV_014,2026-11-01 07:00:00,Network Outage,High,156,Resolved
+INC_0100,DEV_001,2026-10-27 09:00:00,High CPU Utilization,High,120,Resolved
+INC_0101,DEV_025,2026-10-27 04:30:00,High CPU Utilization,Critical,174,Resolved
+INC_0102,DEV_007,2026-11-01 00:00:00,Packet Loss,Low,197,Resolved
+INC_0103,DEV_023,2026-10-29 12:00:00,High Latency,High,179,Resolved
+INC_0104,DEV_012,2026-10-25 13:30:00,Packet Loss,High,119,Resolved
+INC_0105,DEV_018,2026-10-28 00:00:00,Device Failure,Medium,175,Resolved
+INC_0106,DEV_020,2026-10-30 18:30:00,Network Outage,Medium,46,Resolved
+INC_0107,DEV_008,2026-11-01 01:30:00,Device Failure,High,122,Resolved
+INC_0108,DEV_013,2026-10-25 22:30:00,Device Failure,Medium,229,Resolved
+INC_0109,DEV_006,2026-10-28 14:30:00,High Latency,Medium,178,In Progress
+INC_0110,DEV_020,2026-11-02 01:30:00,Device Failure,High,17,Resolved
+INC_0111,DEV_010,2026-11-02 05:00:00,Device Failure,Medium,33,Resolved
+INC_0112,DEV_013,2026-10-26 04:30:00,High CPU Utilization,High,134,Resolved
+INC_0113,DEV_019,2026-10-31 03:00:00,Packet Loss,High,131,Resolved
+INC_0114,DEV_002,2026-10-27 22:30:00,High CPU Utilization,Critical,189,Resolved
+INC_0115,DEV_013,2026-10-30 23:30:00,High Latency,Medium,196,Resolved
+INC_0116,DEV_013,2026-10-30 01:30:00,Packet Loss,High,44,Resolved
+INC_0117,DEV_020,2026-10-27 13:00:00,Packet Loss,Low,143,Resolved
+INC_0118,DEV_020,2026-11-01 14:30:00,Network Outage,High,55,Resolved
+INC_0119,DEV_013,2026-10-29 08:00:00,Network Outage,Medium,183,Resolved
+INC_0120,DEV_013,2026-11-01 15:00:00,Device Failure,Medium,207,Resolved
+INC_0121,DEV_012,2026-10-30 05:00:00,Packet Loss,Critical,227,Resolved
+INC_0122,DEV_017,2026-10-31 06:30:00,Packet Loss,Medium,137,Resolved
+INC_0123,DEV_024,2026-10-27 03:30:00,Network Outage,Low,187,Resolved
+INC_0124,DEV_008,2026-10-27 16:30:00,Device Failure,Medium,181,Resolved
+INC_0125,DEV_006,2026-10-26 07:00:00,Network Outage,Critical,199,In Progress
+INC_0126,DEV_021,2026-10-27 04:00:00,Packet Loss,Low,186,Resolved
+INC_0127,DEV_001,2026-10-25 22:00:00,High Latency,Critical,86,Resolved
+INC_0128,DEV_024,2026-10-27 17:00:00,Network Outage,High,98,Resolved
+INC_0129,DEV_023,2026-11-01 09:30:00,High CPU Utilization,Low,153,Resolved
+INC_0130,DEV_016,2026-10-25 19:00:00,Network Outage,Low,79,Resolved
+INC_0131,DEV_003,2026-10-31 18:30:00,Packet Loss,Medium,209,Resolved
+INC_0132,DEV_023,2026-10-30 18:00:00,Device Failure,Medium,81,Resolved
+INC_0133,DEV_023,2026-10-31 18:00:00,Packet Loss,Medium,64,Resolved
+INC_0134,DEV_018,2026-11-01 22:30:00,Device Failure,Low,71,Resolved
+INC_0135,DEV_010,2026-10-29 05:00:00,Packet Loss,Critical,148,Resolved
+INC_0136,DEV_012,2026-10-30 20:30:00,High CPU Utilization,Medium,30,Resolved
+INC_0137,DEV_013,2026-11-01 19:00:00,High CPU Utilization,Medium,210,Resolved
+INC_0138,DEV_019,2026-10-31 06:00:00,Device Failure,Medium,8,Resolved
+INC_0139,DEV_007,2026-11-01 10:00:00,High CPU Utilization,High,105,Resolved
+INC_0140,DEV_013,2026-10-29 23:30:00,High Latency,Medium,94,Resolved
+INC_0141,DEV_015,2026-10-25 07:00:00,High Latency,High,106,Resolved
+INC_0142,DEV_009,2026-10-27 03:30:00,High CPU Utilization,Medium,147,Resolved
+INC_0143,DEV_012,2026-11-01 02:30:00,Network Outage,Medium,153,Resolved
+INC_0144,DEV_006,2026-10-31 17:30:00,High CPU Utilization,Low,192,Resolved
+INC_0145,DEV_020,2026-10-25 22:00:00,Device Failure,Low,45,Resolved
+INC_0146,DEV_010,2026-10-27 08:30:00,High CPU Utilization,Low,209,Resolved
+INC_0147,DEV_020,2026-10-29 07:00:00,High CPU Utilization,Low,81,Resolved
+INC_0148,DEV_012,2026-10-31 00:30:00,Device Failure,High,170,Resolved
+INC_0149,DEV_024,2026-10-27 18:00:00,High Latency,Medium,62,In Progress
+INC_0150,DEV_008,2026-10-27 17:00:00,Network Outage,High,22,Resolved
+INC_0151,DEV_009,2026-10-26 17:00:00,Packet Loss,Medium,52,In Progress
+INC_0152,DEV_004,2026-10-31 11:00:00,Network Outage,Medium,68,Resolved
+INC_0153,DEV_021,2026-10-26 06:00:00,Packet Loss,Medium,212,Resolved
+INC_0154,DEV_008,2026-10-30 10:00:00,High CPU Utilization,High,52,Resolved
+INC_0155,DEV_024,2026-10-27 02:30:00,High Latency,Low,79,Resolved
+INC_0156,DEV_003,2026-10-29 09:00:00,High CPU Utilization,Medium,94,Resolved
+INC_0157,DEV_021,2026-10-26 11:30:00,Packet Loss,High,109,Resolved
+INC_0158,DEV_010,2026-11-01 02:00:00,High Latency,Low,69,Resolved
+INC_0159,DEV_018,2026-10-29 03:30:00,Packet Loss,Medium,228,Resolved
+INC_0160,DEV_006,2026-10-31 17:30:00,High CPU Utilization,Medium,197,Resolved
+INC_0161,DEV_005,2026-10-30 05:00:00,Packet Loss,Medium,56,Resolved
+INC_0162,DEV_024,2026-11-01 19:30:00,High Latency,High,180,Resolved
+INC_0163,DEV_018,2026-10-28 09:30:00,Network Outage,Critical,139,Resolved
+INC_0164,DEV_023,2026-10-31 18:30:00,High CPU Utilization,Medium,194,Resolved
+INC_0165,DEV_005,2026-10-30 06:30:00,Packet Loss,High,146,Resolved
+INC_0166,DEV_021,2026-10-28 19:30:00,Packet Loss,Medium,109,Resolved
+INC_0167,DEV_021,2026-10-26 17:00:00,Network Outage,Medium,150,Resolved
+INC_0168,DEV_021,2026-10-25 02:30:00,High Latency,Low,145,Resolved
+INC_0169,DEV_016,2026-10-31 11:00:00,Device Failure,High,221,Resolved
+INC_0170,DEV_001,2026-11-01 03:30:00,Device Failure,Medium,209,Resolved
+INC_0171,DEV_008,2026-10-26 06:00:00,Device Failure,Medium,104,Resolved
+INC_0172,DEV_002,2026-10-27 18:00:00,High CPU Utilization,Medium,149,Resolved
+INC_0173,DEV_014,2026-10-28 06:00:00,Device Failure,Low,123,Resolved
+INC_0174,DEV_023,2026-10-26 09:30:00,Device Failure,Medium,169,Resolved
+INC_0175,DEV_021,2026-10-28 20:30:00,Network Outage,High,181,Resolved
+INC_0176,DEV_004,2026-10-27 06:30:00,Device Failure,Medium,226,In Progress
+INC_0177,DEV_018,2026-10-31 12:30:00,Packet Loss,Low,213,In Progress
+INC_0178,DEV_011,2026-10-28 17:30:00,Network Outage,Medium,142,In Progress
+INC_0179,DEV_020,2026-10-28 01:00:00,Packet Loss,Low,84,In Progress
+INC_0180,DEV_022,2026-11-01 14:30:00,High CPU Utilization,High,230,Resolved
+INC_0181,DEV_025,2026-10-25 08:30:00,Network Outage,Medium,27,In Progress
+INC_0182,DEV_021,2026-10-30 23:00:00,Packet Loss,Critical,147,Resolved
+INC_0183,DEV_019,2026-10-25 00:00:00,Packet Loss,Low,75,In Progress
+INC_0184,DEV_015,2026-10-25 02:30:00,High Latency,Medium,167,Resolved
+INC_0185,DEV_003,2026-10-25 18:00:00,High Latency,Low,214,Resolved
+INC_0186,DEV_013,2026-10-30 08:30:00,High Latency,Medium,83,In Progress
+INC_0187,DEV_005,2026-10-26 04:30:00,High Latency,Low,190,In Progress
+INC_0188,DEV_004,2026-10-29 21:00:00,Device Failure,Medium,175,Resolved
+INC_0189,DEV_015,2026-10-31 05:30:00,High CPU Utilization,Critical,156,Resolved
+INC_0190,DEV_024,2026-10-31 05:30:00,Device Failure,Medium,43,In Progress
+INC_0191,DEV_001,2026-10-30 21:00:00,High CPU Utilization,Low,63,Resolved
+INC_0192,DEV_010,2026-10-25 18:00:00,Network Outage,Critical,205,Resolved
+INC_0193,DEV_003,2026-11-01 03:30:00,High CPU Utilization,Medium,205,Resolved
+INC_0194,DEV_005,2026-11-01 05:00:00,Device Failure,Medium,37,Resolved
+INC_0195,DEV_020,2026-10-27 11:30:00,Network Outage,High,38,Resolved
+INC_0196,DEV_016,2026-10-26 23:00:00,Network Outage,High,27,Resolved
+INC_0197,DEV_013,2026-10-28 06:30:00,Network Outage,Low,60,Resolved
+INC_0198,DEV_017,2026-10-26 19:30:00,High Latency,Low,49,Resolved
+INC_0199,DEV_005,2026-10-26 08:00:00,Device Failure,Medium,100,Resolved
+INC_0200,DEV_017,2026-11-01 11:30:00,High Latency,Medium,153,Resolved
+INC_0201,DEV_013,2026-10-27 23:00:00,Packet Loss,Medium,196,Resolved
+INC_0202,DEV_008,2026-10-30 19:30:00,Network Outage,Low,218,Resolved
+INC_0203,DEV_015,2026-10-27 10:00:00,Network Outage,Critical,134,In Progress
+INC_0204,DEV_012,2026-10-25 05:00:00,Network Outage,High,176,In Progress
+INC_0205,DEV_006,2026-11-01 13:00:00,Device Failure,Critical,13,Resolved
+INC_0206,DEV_007,2026-10-27 07:30:00,Network Outage,High,222,Resolved
+INC_0207,DEV_025,2026-10-26 00:30:00,Device Failure,Medium,88,Resolved
+INC_0208,DEV_013,2026-10-25 14:30:00,Packet Loss,Medium,173,In Progress
+INC_0209,DEV_024,2026-10-25 08:30:00,Packet Loss,Low,83,In Progress
+INC_0210,DEV_017,2026-10-27 07:00:00,Packet Loss,Low,239,Resolved
+INC_0211,DEV_018,2026-10-28 08:00:00,High Latency,High,172,Resolved
+INC_0212,DEV_018,2026-11-01 12:30:00,Network Outage,High,62,In Progress
+INC_0213,DEV_003,2026-10-27 17:00:00,Packet Loss,High,232,Resolved
+INC_0214,DEV_005,2026-10-31 16:30:00,High CPU Utilization,High,217,Resolved
+INC_0215,DEV_013,2026-10-30 13:00:00,Device Failure,Low,83,In Progress
+INC_0216,DEV_013,2026-11-01 19:30:00,High CPU Utilization,High,126,Resolved
+INC_0217,DEV_006,2026-11-01 02:00:00,Packet Loss,Low,155,Resolved
+INC_0218,DEV_013,2026-10-30 19:00:00,High Latency,Medium,73,In Progress
+INC_0219,DEV_015,2026-10-28 19:30:00,High Latency,Critical,38,Resolved
+INC_0220,DEV_019,2026-10-26 08:00:00,High CPU Utilization,High,156,Resolved
+INC_0221,DEV_006,2026-10-26 01:30:00,Packet Loss,Medium,158,Resolved
+INC_0222,DEV_006,2026-10-30 11:00:00,Network Outage,Low,76,Resolved
+INC_0223,DEV_010,2026-10-27 07:00:00,Device Failure,High,12,Resolved
+INC_0224,DEV_003,2026-11-01 00:00:00,Device Failure,Medium,110,Resolved
+INC_0225,DEV_020,2026-10-28 09:00:00,High Latency,Medium,124,In Progress
+INC_0226,DEV_020,2026-11-02 07:30:00,High CPU Utilization,Low,202,In Progress
+INC_0227,DEV_017,2026-10-31 09:00:00,Packet Loss,Low,94,Resolved
+INC_0228,DEV_013,2026-10-28 18:00:00,Packet Loss,Low,239,Resolved
+INC_0229,DEV_016,2026-10-31 21:30:00,Network Outage,Medium,38,Resolved
+INC_0230,DEV_017,2026-10-31 09:30:00,Network Outage,Critical,184,Resolved
+INC_0231,DEV_004,2026-11-01 02:30:00,Packet Loss,Medium,176,Resolved
+INC_0232,DEV_008,2026-10-29 09:30:00,Packet Loss,High,95,Resolved
+INC_0233,DEV_009,2026-10-29 16:00:00,Device Failure,Low,211,Resolved
+INC_0234,DEV_022,2026-10-29 03:00:00,High CPU Utilization,Medium,86,Resolved
+INC_0235,DEV_012,2026-10-28 19:00:00,Device Failure,Medium,132,Resolved
+INC_0236,DEV_012,2026-10-30 11:00:00,Network Outage,Medium,198,Resolved
+INC_0237,DEV_019,2026-10-28 03:00:00,High Latency,Low,157,Resolved
+INC_0238,DEV_001,2026-10-27 16:00:00,Packet Loss,Critical,180,Resolved
+INC_0239,DEV_004,2026-10-30 03:30:00,Packet Loss,Medium,13,In Progress
+INC_0240,DEV_002,2026-10-29 20:00:00,High CPU Utilization,High,148,Resolved
+INC_0241,DEV_007,2026-10-30 13:30:00,Network Outage,Medium,201,Resolved
+INC_0242,DEV_003,2026-10-27 00:00:00,Packet Loss,Medium,119,Resolved
+INC_0243,DEV_008,2026-10-30 05:00:00,Device Failure,Critical,29,Resolved
+INC_0244,DEV_009,2026-10-30 15:00:00,High CPU Utilization,Low,176,Resolved
+INC_0245,DEV_020,2026-10-30 21:00:00,Packet Loss,Medium,219,Resolved
+INC_0246,DEV_021,2026-10-31 23:00:00,High Latency,Critical,136,Resolved
+INC_0247,DEV_021,2026-10-31 08:00:00,Network Outage,High,99,Resolved
+INC_0248,DEV_024,2026-10-27 14:00:00,High CPU Utilization,Medium,48,In Progress
+INC_0249,DEV_001,2026-10-26 01:00:00,Device Failure,Low,215,Resolved
+INC_0250,DEV_022,2026-10-28 03:30:00,Network Outage,Medium,204,Resolved
+INC_0251,DEV_011,2026-10-31 12:00:00,Packet Loss,High,106,Resolved
+INC_0252,DEV_002,2026-11-01 13:30:00,High Latency,High,115,Resolved
+INC_0253,DEV_009,2026-10-26 00:30:00,Device Failure,Medium,168,Resolved
+INC_0254,DEV_007,2026-10-31 00:00:00,Network Outage,Low,45,Resolved
+INC_0255,DEV_015,2026-10-29 06:30:00,Packet Loss,Medium,21,Resolved
+INC_0256,DEV_016,2026-10-26 13:00:00,High CPU Utilization,Medium,129,Resolved
+INC_0257,DEV_012,2026-10-25 12:30:00,Packet Loss,Low,201,Resolved
+INC_0258,DEV_010,2026-11-01 17:30:00,High CPU Utilization,Medium,23,In Progress
+INC_0259,DEV_009,2026-10-29 16:30:00,High CPU Utilization,Low,148,Resolved
+INC_0260,DEV_016,2026-10-27 12:00:00,Packet Loss,High,65,Resolved
+INC_0261,DEV_012,2026-11-01 20:00:00,High Latency,Low,15,Resolved
+INC_0262,DEV_010,2026-10-27 02:00:00,High CPU Utilization,Medium,134,Resolved
+INC_0263,DEV_020,2026-10-31 02:00:00,High CPU Utilization,Low,9,Resolved
+INC_0264,DEV_021,2026-10-29 20:00:00,Packet Loss,Low,231,Resolved
+INC_0265,DEV_013,2026-10-26 15:30:00,High CPU Utilization,Medium,68,Resolved
+INC_0266,DEV_013,2026-10-30 13:30:00,Device Failure,Critical,21,In Progress
+INC_0267,DEV_023,2026-10-25 23:00:00,Network Outage,Medium,105,In Progress
+INC_0268,DEV_019,2026-10-30 22:00:00,Packet Loss,Medium,193,Resolved
+INC_0269,DEV_013,2026-10-30 10:30:00,Device Failure,Medium,83,Resolved
+INC_0270,DEV_024,2026-11-01 18:30:00,High CPU Utilization,High,91,Resolved
+INC_0271,DEV_023,2026-10-30 12:30:00,High CPU Utilization,Medium,186,Resolved
+INC_0272,DEV_022,2026-10-27 16:30:00,High CPU Utilization,Low,47,Resolved
+INC_0273,DEV_024,2026-10-26 16:30:00,Network Outage,High,86,In Progress
+INC_0274,DEV_018,2026-10-31 08:00:00,High Latency,Medium,169,Resolved
+INC_0275,DEV_021,2026-10-27 23:30:00,Packet Loss,Medium,199,Resolved
+INC_0276,DEV_013,2026-11-02 06:30:00,Device Failure,High,38,Resolved
+INC_0277,DEV_009,2026-10-28 23:00:00,High Latency,Medium,220,Resolved
+INC_0278,DEV_024,2026-10-30 09:00:00,Packet Loss,Low,198,Resolved
+INC_0279,DEV_017,2026-10-25 03:30:00,High CPU Utilization,Medium,216,Resolved
+INC_0280,DEV_010,2026-10-27 03:00:00,High CPU Utilization,High,76,Resolved
+INC_0281,DEV_015,2026-10-25 18:00:00,Device Failure,Critical,113,Resolved
+INC_0282,DEV_008,2026-10-26 17:00:00,High Latency,Medium,239,Resolved
+INC_0283,DEV_018,2026-11-01 15:00:00,High CPU Utilization,Low,160,Resolved
+INC_0284,DEV_014,2026-10-30 03:00:00,Network Outage,Low,190,Resolved
+INC_0285,DEV_016,2026-11-01 18:30:00,Packet Loss,Medium,205,Resolved
+INC_0286,DEV_007,2026-10-31 16:30:00,Device Failure,Medium,34,Resolved
+INC_0287,DEV_017,2026-10-25 18:00:00,Network Outage,Medium,64,Resolved
+INC_0288,DEV_014,2026-10-30 09:00:00,Device Failure,Low,186,Resolved
+INC_0289,DEV_003,2026-10-27 00:30:00,Packet Loss,Low,79,In Progress
+INC_0290,DEV_023,2026-10-27 00:30:00,High Latency,Low,89,Resolved
+INC_0291,DEV_010,2026-11-01 23:00:00,Network Outage,Medium,184,Resolved
+INC_0292,DEV_001,2026-10-27 05:30:00,High CPU Utilization,Low,211,In Progress
+INC_0293,DEV_011,2026-10-31 02:00:00,Device Failure,Low,192,Resolved
+INC_0294,DEV_009,2026-11-01 15:30:00,High Latency,High,53,Resolved
+INC_0295,DEV_004,2026-10-29 21:30:00,Packet Loss,Low,95,In Progress
+INC_0296,DEV_005,2026-10-27 13:00:00,High CPU Utilization,High,112,Resolved
+INC_0297,DEV_019,2026-10-28 08:00:00,Device Failure,Low,177,Resolved
+INC_0298,DEV_025,2026-10-29 10:30:00,High Latency,Medium,94,Resolved
+INC_0299,DEV_011,2026-10-29 23:00:00,Packet Loss,High,57,In Progress
+INC_0300,DEV_006,2026-10-30 04:00:00,High Latency,Medium,184,Resolved
