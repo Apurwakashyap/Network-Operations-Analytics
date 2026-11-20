@@ -19,7 +19,7 @@ The project includes four interactive dashboard pages developed using Power BI.
 ![Incident Analysis](dashboards/screenshots/Incident_Analysis.jpg)
 
 ### 4. Regional Comparison
-![Regional Comparison](dashboards/screenshots/RegionalComparison.jpg)
+![Regional Comparison](dashboards/screenshots/Regional_Comparison.jpg)
 
 ## Technology Stack
 
