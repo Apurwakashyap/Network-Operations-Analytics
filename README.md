@@ -11,15 +11,15 @@ The project demonstrates data extraction, cleaning, exploratory analysis, SQL qu
 The project includes four interactive dashboard pages developed using Power BI.
 
 ### 1. Network Operations Analytics
-![Executive Overview](dashboards/screenshots/executive_overview.png)
+![Executive Overview](dashboards/screenshots/Executive_Overview.jpg)
 ### 2. Network Performance
-![Network Performance](dashboards/screenshots/network_performance.jpg)
+![Network Performance](dashboards/screenshots/Network Performance.jpg)
 
 ### 3. Incident Analysis
-![Incident Analysis](dashboards/screenshots/incident_analysis.jpg)
+![Incident Analysis](dashboards/screenshots/Incident_Analysis.jpg)
 
 ### 4. Regional Comparison
-![Regional Comparison](dashboards/screenshots/regional_comparison.jpg)
+![Regional Comparison]dashboards/screenshots/Regional Comparison.jpg)
 
 ## Technology Stack
 
