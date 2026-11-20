@@ -42,6 +42,73 @@ The project includes four interactive dashboard pages developed using Power BI.
 6. Build interactive Power BI dashboards.
 7. Run automated data quality tests using pytest.
 
+## Installation and Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Apurwakashyap/Network-Operations-Analytics.git
+cd Network-Operations-Analytics
+```
+
+### 2. Create a virtual environment
+
+```bash
+python -m venv venv
+```
+
+Activate it on Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Configure PostgreSQL
+
+Create a PostgreSQL database named:
+
+```sql
+CREATE DATABASE network_operations_db;
+```
+
+Create a `.env` file in the project root using `.env` as a template.
+
+Update the database credentials in `.env` with your local PostgreSQL configuration.
+
+**Never commit your actual `.env` file.**
+
+### 5. Generate and clean the data
+
+```bash
+python src/generate_data.py
+python src/clean_data.py
+```
+
+### 6. Load data into PostgreSQL
+
+```bash
+python src/load_to_postgres.py
+```
+
+### 7. Run exploratory data analysis
+
+```bash
+python src/explore_data.py
+python src/eda_analysis.py
+```
+
+### 8. Run automated tests
+
+```bash
+python -m pytest tests/ -v
+```
+
 ## Dataset Overview
 
 | Dataset | Description |
