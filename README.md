@@ -1,4 +1,4 @@
-# Network Operations Analytics & Predictive Monitoring
+# Network Operations Analytics
 
 ## Project Overview
 
