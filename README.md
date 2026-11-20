@@ -77,11 +77,13 @@ Create a PostgreSQL database named:
 ```sql
 CREATE DATABASE network_operations_db;
 ```
+``` env
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=network_operations_db
 DB_USER=postgres
 DB_PASSWORD=your_postgres_password
+```
 
 ```Run the schema script to create the required tables and constraints:
 psql -U your_postgres_username -d network_operations_db -f sql/schema.sql
