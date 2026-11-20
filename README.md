@@ -6,19 +6,20 @@ An end-to-end network operations analytics project that uses synthetic network t
 
 The project demonstrates data extraction, cleaning, exploratory analysis, SQL querying, data modeling, dashboard development, and automated data quality testing.
 
-## Power BI Dashboard Preview
+## Power BI Dashboard 
 
 The project includes four interactive dashboard pages developed using Power BI.
 
-### 1. Network Operations Analytics
+### 1. Network Operations Analytics:** Overall network and incident overview.
 <img src="dashboards/screenshots/Executive_Overview.jpg" width="700">
-### 2. Network Performance
+
+### 2. Network Performance:** CPU, memory, latency, and packet loss analysis.
 <img src="dashboards/screenshots/Network_Performance.jpg" width="700">
 
-### 3. Incident Analysis
+### 3. Incident Analysis:** Incident severity, types, resolution status, and downtime.
 <img src="dashboards/screenshots/Incident_Analysis.jpg" width="700">
 
-### 4. Regional Comparison
+### 4. Regional Comparison: ** Regional network performance, incidents per device, and downtime per device.
 <img src="dashboards/screenshots/Regional_Comparison.jpg" width="700">
 
 ## Technology Stack
@@ -76,8 +77,15 @@ Create a PostgreSQL database named:
 ```sql
 CREATE DATABASE network_operations_db;
 ```
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=network_operations_db
+DB_USER=postgres
+DB_PASSWORD=your_postgres_password
 
-Create a `.env` file in the project root using `.env` as a template.
+```Run the schema script to create the required tables and constraints:
+psql -U your_postgres_username -d network_operations_db -f sql/schema.sql
+```
 
 Update the database credentials in `.env` with your local PostgreSQL configuration.
 
@@ -118,15 +126,6 @@ python -m pytest tests/ -v
 | Incidents | Incident type, severity, downtime, resolution status |
 
 The project uses synthetic data generated for demonstration purposes.
-
-## Power BI Dashboard
-
-The report contains four pages:
-
-1. **Network Operations Analytics:** Overall network and incident overview.
-2. **Network Performance:** CPU, memory, latency, and packet loss analysis.
-3. **Incident Analysis:** Incident severity, types, resolution status, and downtime.
-4. **Regional Comparison:** Regional network performance, incidents per device, and downtime per device.
 
 ## Data Quality and Testing
 
