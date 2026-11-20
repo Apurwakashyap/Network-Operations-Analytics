@@ -13,13 +13,13 @@ The project includes four interactive dashboard pages developed using Power BI.
 ### 1. Network Operations Analytics
 ![Executive Overview](dashboards/screenshots/Executive_Overview.jpg)
 ### 2. Network Performance
-![Network Performance](dashboards/screenshots/Network Performance.jpg)
+![Network Performance](dashboards/screenshots/Network_Performance.jpg)
 
 ### 3. Incident Analysis
 ![Incident Analysis](dashboards/screenshots/Incident_Analysis.jpg)
 
 ### 4. Regional Comparison
-![Regional Comparison]dashboards/screenshots/Regional Comparison.jpg)
+![Regional Comparison](dashboards/screenshots/RegionalComparison.jpg)
 
 ## Technology Stack
 
